@@ -1,0 +1,12 @@
+A:\ProjetosCsharp\Projetin.Solucao\classlib.DATA\bin\Debug\net6.0\classlib.DATA.deps.json
+A:\ProjetosCsharp\Projetin.Solucao\classlib.DATA\bin\Debug\net6.0\classlib.DATA.dll
+A:\ProjetosCsharp\Projetin.Solucao\classlib.DATA\bin\Debug\net6.0\classlib.DATA.pdb
+A:\ProjetosCsharp\Projetin.Solucao\classlib.DATA\obj\Debug\net6.0\classlib.DATA.csproj.AssemblyReference.cache
+A:\ProjetosCsharp\Projetin.Solucao\classlib.DATA\obj\Debug\net6.0\classlib.DATA.GeneratedMSBuildEditorConfig.editorconfig
+A:\ProjetosCsharp\Projetin.Solucao\classlib.DATA\obj\Debug\net6.0\classlib.DATA.AssemblyInfoInputs.cache
+A:\ProjetosCsharp\Projetin.Solucao\classlib.DATA\obj\Debug\net6.0\classlib.DATA.AssemblyInfo.cs
+A:\ProjetosCsharp\Projetin.Solucao\classlib.DATA\obj\Debug\net6.0\classlib.DATA.csproj.CoreCompileInputs.cache
+A:\ProjetosCsharp\Projetin.Solucao\classlib.DATA\obj\Debug\net6.0\classlib.DATA.dll
+A:\ProjetosCsharp\Projetin.Solucao\classlib.DATA\obj\Debug\net6.0\refint\classlib.DATA.dll
+A:\ProjetosCsharp\Projetin.Solucao\classlib.DATA\obj\Debug\net6.0\classlib.DATA.pdb
+A:\ProjetosCsharp\Projetin.Solucao\classlib.DATA\obj\Debug\net6.0\ref\classlib.DATA.dll

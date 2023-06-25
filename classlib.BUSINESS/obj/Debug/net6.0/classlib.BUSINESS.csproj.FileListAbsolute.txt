@@ -1,0 +1,12 @@
+A:\ProjetosCsharp\Projetin.Solucao\classlib.BUSINESS\bin\Debug\net6.0\classlib.BUSINESS.deps.json
+A:\ProjetosCsharp\Projetin.Solucao\classlib.BUSINESS\bin\Debug\net6.0\classlib.BUSINESS.dll
+A:\ProjetosCsharp\Projetin.Solucao\classlib.BUSINESS\bin\Debug\net6.0\classlib.BUSINESS.pdb
+A:\ProjetosCsharp\Projetin.Solucao\classlib.BUSINESS\obj\Debug\net6.0\classlib.BUSINESS.csproj.AssemblyReference.cache
+A:\ProjetosCsharp\Projetin.Solucao\classlib.BUSINESS\obj\Debug\net6.0\classlib.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+A:\ProjetosCsharp\Projetin.Solucao\classlib.BUSINESS\obj\Debug\net6.0\classlib.BUSINESS.AssemblyInfoInputs.cache
+A:\ProjetosCsharp\Projetin.Solucao\classlib.BUSINESS\obj\Debug\net6.0\classlib.BUSINESS.AssemblyInfo.cs
+A:\ProjetosCsharp\Projetin.Solucao\classlib.BUSINESS\obj\Debug\net6.0\classlib.BUSINESS.csproj.CoreCompileInputs.cache
+A:\ProjetosCsharp\Projetin.Solucao\classlib.BUSINESS\obj\Debug\net6.0\classlib.BUSINESS.dll
+A:\ProjetosCsharp\Projetin.Solucao\classlib.BUSINESS\obj\Debug\net6.0\refint\classlib.BUSINESS.dll
+A:\ProjetosCsharp\Projetin.Solucao\classlib.BUSINESS\obj\Debug\net6.0\classlib.BUSINESS.pdb
+A:\ProjetosCsharp\Projetin.Solucao\classlib.BUSINESS\obj\Debug\net6.0\ref\classlib.BUSINESS.dll
